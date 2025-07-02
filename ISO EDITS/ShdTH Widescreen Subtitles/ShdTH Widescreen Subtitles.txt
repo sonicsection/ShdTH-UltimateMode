@@ -1,0 +1,19 @@
+Widescreen subtitles were intended to be an improved and cleaner subtitle for the Widescreen version of Shadow Reloaded, excluding any hint ball and leaving only the main dialogues of the game. There are 2 versions: with HUD and NO HUD. Initially it was supposed to have a single version, but as there is currently no way to move HUD elements to any side of the screen, I had to make two versions. The size of the subtitles in the cutscenes are widescreen, but do not change in both versions. All of this was done thanks to the ShadowTH Text Editor (https://github.com/ShadowTheHedgehogHacking/ShadowTHTextEditor), and I have no future plans to make a version containing hint balls, because I believe they are really unnecessary. 
+
+If you are bothered by the empty hint balls present in the stages, you may be using the stage files from the Ultimate Mode mod, because in it all the hint balls were excluded from the stages in both game modes. If you are interested in using fonts like the ones in the screenshots, you can download the IMPRESS font, from SaturnAdvanced: https://gamebanana.com/mods/518638
+
+
+The code that removes any HUD elements that are useful for playing with the fonts in the NO HUD folder is this:
+
+Gecko Code: $No HUD
+
+Author: BlazinZzetti
+
+0057D7E8 00000000
+
+
+── ── ── ─ ─ ─
+➥ Social Media:
+
+Youtube: Sonic Section
+Discord: @sonicsection
