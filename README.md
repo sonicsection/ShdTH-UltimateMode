@@ -29,32 +29,24 @@ In addition, since Ultimate Mode was built using the latest version of **Shadow 
 
 🔗 [Download Shadow Reloaded](https://github.com/ShadowTheHedgehogHacking/ShdTH-Reloaded.git)
 
----
-
-# About the Texture Compilation
-
-When I created Ultimate Mode, I had the idea of ​​sharing the compilation of textures I use for anyone who wants to find a faster way to play Shadow with good resolution and full textures. Creating all of this from scratch would be laborious and would result in a result similar to the HD Upscaled Texture Pack, it wouldn't be worth it, but even combining the best of each texture available in the community, I had to create some textures that were missing in some stages, as they were exclusive to the Reloaded version (Central City, The Doom, Heavy Dog (Boss) and Final Haunt). I recommend that anyone using this compilation of textures view the texture on its original creator's page, as not all of their textures were used in this compilation. The credits will be available both on the mod's page on Gamebanana and in the folder of these textures, on Google Drive. So if someone downloads them from another place, they will have access to these credits when opening this folder.
 
 ---
 
-# 📥 Download & Credits
+# Download
 
-📦 Download the mod:  
-🔗 [GameBanana – Ultimate Mode](https://gamebanana.com/mods/535295)  
-🔗 [Google Drive – Ultimate Mode with Texture Compilation](https://drive.google.com/file/d/1WLz_Lb6QxTr04uzfMt7vRMV6xEEbXYq9/view?usp=sharing)
+➥ Download the mod:  
+🔗 [Gamebanana – Ultimate Mode](https://gamebanana.com/mods/535295)  
+🔗 [Google Drive – Ultimate Mode](https://drive.google.com/file/d/1WLz_Lb6QxTr04uzfMt7vRMV6xEEbXYq9/view?usp=sharing)
 
-📃 Credits for textures are available both:
-- On the [GameBanana page](https://gamebanana.com/mods/535295)
-- Inside the Google Drive folder, in a dedicated text file
 
 ---
 
-# 🌐 Follow Sonic Section
+# Follow Sonic Section
 
-🎥 **YouTube:** [Sonic Section](https://bit.ly/SonicSection)  
-💬 **Discord:** `@sonicsection`  
-🎮 **GameBanana Profile:** [bit.ly/SonicSection_Gamebanana](https://bit.ly/SonicSection_Gamebanana)  
-🐦 **X:** [x.com/SonicSection](https://x.com/SonicSection)
+**YouTube:** [Sonic Section](https://bit.ly/SonicSection)  
+**Discord:** `@sonicsection`  
+**Gamebanana Profile:** [bit.ly/SonicSection_Gamebanana](https://bit.ly/SonicSection_Gamebanana)  
+**X:** [x.com/SonicSection](https://x.com/SonicSection)
 
 ---
 
