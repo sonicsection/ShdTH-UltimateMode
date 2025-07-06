@@ -32,12 +32,8 @@ In addition, since Ultimate Mode was built using the latest version of **Shadow 
 
 ---
 
-# Download
-
-➥ Download the mod:  
-🔗 [Gamebanana – Ultimate Mode](https://gamebanana.com/mods/535295)  
-🔗 [Google Drive – Ultimate Mode](https://drive.google.com/file/d/1WLz_Lb6QxTr04uzfMt7vRMV6xEEbXYq9/view?usp=sharing)
-
+# About the Texture Compilation
+When Ultimate Mode was created, the idea arose to share the compilation of textures used at that time for anyone who wanted to find a faster way to play Shadow with good resolution and full textures. Creating all of this from scratch would be laborious and would result in a result similar to the HD Upscaled Texture Pack, it wouldn't be worth it, but even combining the best of each texture available in the community, I had to create some textures that were missing in some stages, as they were exclusive to the Reloaded version (Central City, The Doom, Heavy Dog (Boss) and Final Haunt). It is recommended that anyone using this compilation of textures view the texture on its original creator's page, as not all of their textures were used in this compilation. The credits will be available both on the mod's page on Gamebanana and in the folder of these textures, on Google Drive. So if someone downloads them from another place, they will have access to these credits when opening this folder.
 
 ---
 
