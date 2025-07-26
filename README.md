@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Shadow the Hedgehog: Ultimate Mode</strong></h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/341a676a-9257-4c59-8bf6-b69844e1d49e" alt="ShdTH_UltimateMode" style="width: 75%;">
+  <img src="https://github.com/user-attachments/assets/341a676a-9257-4c59-8bf6-b69844e1d49e" alt="ShdTH_UltimateMode" style="width: 76%;">
 </div>
 
 <p align="center">
