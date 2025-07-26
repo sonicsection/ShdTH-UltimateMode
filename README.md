@@ -26,7 +26,7 @@ Just download the 2P Multiplayer mod and play using the latest Ultimate Mode fil
 
 It is recommended that you copy all the files from the folders as they are, so as not to transfer the changes made in Ultimate Mode to the singleplayer levels of the game.
 
-In addition, since Ultimate Mode was built using the latest version of [Reloaded](https://github.com/ShadowTheHedgehogHacking/ShdTH-Reloaded.git), it is highly recommended that you install the mod over it to ensure full compatibility and avoid issues.
+In addition, since Ultimate Mode was built using the latest version of [Shadow Reloaded](https://github.com/ShadowTheHedgehogHacking/ShdTH-Reloaded.git), it is highly recommended that you install the mod over it to ensure full compatibility and avoid issues.
 
 ---
 
